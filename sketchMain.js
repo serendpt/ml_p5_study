@@ -5,7 +5,7 @@ function setup() {
 }
 let value
 function draw(){
-  rect(30, 20, 55, 55)
+  //rect(30, 20, 55, 55)
   let tex = createP()
   tex.style('font-size', '20px')
   tex.position(60, 165)
