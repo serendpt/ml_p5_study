@@ -5,7 +5,6 @@ function setup() {
 }
 let value
 function draw(){
-  //rect(30, 20, 55, 55)
   let tex = createP()
   tex.style('font-size', '20px')
   tex.position(60, 165)
@@ -14,7 +13,6 @@ function draw(){
   label.style('font-size', '120')
   label.style('font-family', 'KaTeX-Main')
   label.position(135, 120)
-  //label.mouseOver()
 }
 function mousePressed() {
   
